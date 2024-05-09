@@ -1,7 +1,7 @@
 ### Hi there! I'm Jin.
 ---
 I was born in Japan🇯🇵
-
+![Uploading image.png…]()
 
 
 <!--
