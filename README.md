@@ -1,4 +1,8 @@
-### Hi  👋
+### Hi there! I'm Jin.
+---
+I was born in Japan🇯🇵
+
+
 
 <!--
 **JIN-0205/JIN-0205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
